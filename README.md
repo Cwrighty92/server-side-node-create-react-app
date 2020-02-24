@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `run npm i`
 
-Installs require packages
+Installs required packages
 
 ### `npm run dev`
 
