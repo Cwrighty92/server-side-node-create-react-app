@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `run npm i`
+
+Installs require packages
+
 ### `npm run dev`
 
 Runs the app via node server<br />
